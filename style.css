@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+}
+body {
+    background-image: url("./res/main/bg.png");
+        background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+p {
+    font-size: 13px;
+} 
